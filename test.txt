@@ -1,3 +1,4 @@
 Git is free.
 hello
 let me add new things:life is beatiful!
+git tracks changes.
